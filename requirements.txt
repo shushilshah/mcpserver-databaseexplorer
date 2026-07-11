@@ -1,0 +1,8 @@
+mcp[cli]
+sqlalchemy
+numpy
+pandas
+streamlit
+psycopg2-binary 
+pymysql
+python-dotenv
